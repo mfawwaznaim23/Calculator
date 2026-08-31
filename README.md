@@ -5,11 +5,12 @@ part of [The Odin Project](https://www.theodinproject.com/) curriculum.
 
 ## Preview
 
-![Calculator Preview](./images/preview.jpeg)
+<img width="1600" height="793" alt="WhatsApp Image 2026-08-31 at 11 25 55 AM" src="https://github.com/user-attachments/assets/de8a90c9-8da4-422f-82a9-ae330b891065" />
+
 
 ## Live Demo
 
-[View the Live Demo](YOUR_LIVE_DEMO_LINK)
+[View the Live Demo]([YOUR_LIVE_DEMO_LINK](https://mfawwaznaim23.github.io/Calculator/))
 
 ## About the Project
 
