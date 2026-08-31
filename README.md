@@ -10,7 +10,8 @@ part of [The Odin Project](https://www.theodinproject.com/) curriculum.
 
 ## Live Demo
 
-[View the Live Demo]([YOUR_LIVE_DEMO_LINK](https://mfawwaznaim23.github.io/Calculator/))
+
+[View the live project](https://mfawwaznaim23.github.io/Calculator/)
 
 ## About the Project
 
